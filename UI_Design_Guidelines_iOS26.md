@@ -45,7 +45,7 @@
 
 #### 4.1.1 品牌色
 
-- `brand/primary`: `#0A84FF`
+- `brand/primary`: `#00BD8D`
 - `brand/secondary`: `#30D158`
 - `brand/warning`: `#FF9F0A`
 - `brand/danger`: `#FF453A`
@@ -53,10 +53,10 @@
 #### 4.1.2 语义色（Light）
 
 - `bg/base`: `#FFFFFF`
-- `bg/elevated`: `#F7F8FA`
-- `text/primary`: `#111827`
-- `text/secondary`: `#4B5563`
-- `border/default`: `#E5E7EB`
+- `bg/elevated`: `#F7F8FB`
+- `text/primary`: `#111A34`
+- `text/secondary`: `#41485D`
+- `border/default`: `#EBEEF2`
 
 #### 4.1.3 语义色（Dark）
 
